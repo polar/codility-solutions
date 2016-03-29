@@ -1,5 +1,4 @@
 import java.util.HashSet;
-import java.util.List;
 
 /**
  * This is my solution for the Codility OddOccurencesInArray problem.
