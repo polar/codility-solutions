@@ -10,7 +10,7 @@
  * 
  * The only trick is to see if you really need to max out the counters. 
  * If the maximum did not change since the last max_counter operation, 
- * there is not need to do anything..
+ * there is no need to do anything..
  *  
  * @author Dr. Polar Humenn
  *
