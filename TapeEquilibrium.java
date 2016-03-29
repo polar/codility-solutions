@@ -10,7 +10,7 @@
  * differences, we can get away with O(1) space complexity as we 
  * only need accumulators. 
  * 
- * @author polar
+ * @author Dr Polar Humenn
  *
  */
 public class TapeEquilibrium {
