@@ -7,7 +7,7 @@
  * O(X) space, boolean array, to record an fallen leaf position as it may
  * multiple leaves may fall into the same position. If there is not one there,
  * recorded by the boolean array, then record it and subtract from the Gaussian
- * total of the sequence. If we reached a zero, then the sequence is complete.
+ * total of the sequence. If we reach zero there, then the sequence is complete.
  * This is O(N) better than scanning the boolean array each time scanning for
  * a false.
  *  
